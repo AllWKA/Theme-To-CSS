@@ -1,0 +1,28 @@
+{
+  "name": "theme-to-css",
+  "version": "1.0.0",
+  "description": "Convert themes into CSS color variables",
+  "homepage": "https://github.com/AllWKA/Theme-To-CSS#readme",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "bugs": {
+    "url": "https://github.com/AllWKA/Theme-To-CSS/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AllWKA/Theme-To-CSS.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "yo": "yo"
+  },
+  "devDependencies": {
+    "@types/node": "^24.2.1",
+    "generator-code": "^1.11.11",
+    "typescript": "^5.9.2",
+    "yo": "^5.1.0"
+  }
+}
