@@ -16,12 +16,15 @@
   "author": "",
   "type": "commonjs",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "yo": "yo"
+    "test": "jest",
+    "build": "tsc"
   },
   "devDependencies": {
+    "@types/jest": "^30.0.0",
     "@types/node": "^24.2.1",
     "generator-code": "^1.11.11",
+    "jest": "^30.0.5",
+    "ts-jest": "^29.4.1",
     "typescript": "^5.9.2",
     "yo": "^5.1.0"
   }
