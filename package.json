@@ -16,7 +16,7 @@
   "author": "",
   "type": "commonjs",
   "scripts": {
-    "test": "jest",
+    "test": "jest --coverage",
     "build": "tsc"
   },
   "devDependencies": {
