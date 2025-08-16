@@ -621,6 +621,6 @@
       "bold": true,
       "underline": true
     },
-    "property.readonly": "#8a2be2"
+    "property.readonly" : "#8a2be2"
   }
 }
