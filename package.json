@@ -1,6 +1,6 @@
 {
   "name": "theme-to-css",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Convert themes into CSS color variables",
   "homepage": "https://github.com/AllWKA/Theme-To-CSS#readme",
   "main": "dist/index.js",
